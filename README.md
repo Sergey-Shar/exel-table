@@ -1,2 +1,2 @@
 # exel-table
-Implementing an exel spreadsheet in pure JavaScript
+Implementing an exel spreadsheet in TypeScript 
